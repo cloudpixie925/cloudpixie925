@@ -16,5 +16,5 @@ I am a 3rd year CS undergrad @UI with production experience in managing AWS infr
 * AWS Certified Cloud Practitioner (CLF-C02)
 
 ### 📫 Contact & Connect
-* **LinkedIn:** https://www.linkedin.com/in/ganiyah-ayanlola-ab3199385/)
+* **LinkedIn:** https://www.linkedin.com/in/ganiyah-ayanlola-ab3199385/
 * **Email:** ganiyah925@gmail.com
