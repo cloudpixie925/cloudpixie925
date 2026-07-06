@@ -1,4 +1,4 @@
-# Junior Cloud & DevOps Engineer
+# Cloud & DevOps Engineer
 
 I am a 3rd year CS undergrad @UI with production experience in managing AWS infrastructure, constructing CI/CD pipelines, and orchestrating containerized workloads. My engineering focus is on leveraging Infrastructure as Code to deploy highly available systems and diagnosing live production incidents.
 
