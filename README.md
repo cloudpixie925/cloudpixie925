@@ -1,4 +1,4 @@
-# Cloud & DevOps Engineer
+# Cloud-Native SWE
 
 I am a 3rd year CS undergrad @UI with production experience in managing AWS infrastructure, constructing CI/CD pipelines, and orchestrating containerized workloads. My engineering focus is on leveraging Infrastructure as Code to deploy highly available systems and diagnosing live production incidents.
 
@@ -10,7 +10,7 @@ I am a 3rd year CS undergrad @UI with production experience in managing AWS infr
 ### 🚀 Current Execution
 * Designing high-availability architectures and preparing technical builds.
 * Building modular Infrastructure as Code baselines for automated AWS networking and serverless deployments.
-* Studying for the AWS Solutions Architect Associate (SAA-C03) certification.
+
 
 ### 🏆 Certifications
 * AWS Certified Cloud Practitioner (CLF-C02)
