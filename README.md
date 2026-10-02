@@ -1,4 +1,4 @@
-# Cloud-Native SWE
+# 🐻Cloud-Native SWE
 
 I am a 3rd year CS undergrad @UI building cloud-native software on AWS. I write backend services in Go and Python, and I care about how they get deployed, observed, and kept reliable. My focus is Infrastructure as Code, serverless, and containerized workloads.
 
@@ -31,5 +31,4 @@ I am a 3rd year CS undergrad @UI building cloud-native software on AWS. I write 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=cloudpixie925&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=cloudpixie925&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=cloudpixie925&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
